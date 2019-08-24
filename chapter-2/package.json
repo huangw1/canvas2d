@@ -1,5 +1,5 @@
 {
-  "name": "chapter-1",
+  "name": "chapter-2",
   "version": "1.0.0",
   "scripts": {
     "start": "parcel serve index.html"

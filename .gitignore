@@ -7,3 +7,6 @@ package-lock.json
 .idea
 .vscode
 
+*dist
+*.cache
+
